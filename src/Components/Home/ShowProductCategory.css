@@ -1,0 +1,28 @@
+
+
+  .productHomepage::-webkit-scrollbar {
+    width: 5px;
+
+  }
+  
+  /* Track */
+  .productHomepage::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 20px rgb(255, 255, 255); 
+    border-radius: 10px;
+
+  }
+   
+  /* Handle */
+  .productHomepage::-webkit-scrollbar-thumb {
+    background: #fec400; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  .productHomepage::-webkit-scrollbar-thumb:hover {
+    background: #c29500; 
+  }
+
+
+
+
